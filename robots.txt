@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+Allow: /
+
+Sitemap: https://dinis-auto-pecas.netlify.com/sitemap.xml
