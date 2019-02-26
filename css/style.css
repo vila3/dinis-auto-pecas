@@ -1459,6 +1459,7 @@ header {
 
 .footer-logo>a>img {
     max-height: 80px;
+    max-width: 100%;
 }
 
 .footer-follow {
